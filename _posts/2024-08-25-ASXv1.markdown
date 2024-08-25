@@ -5,9 +5,9 @@ date:   2024-08-25 18:15:00 -0400
 categories: nutrition
 ---
 
-# ASXv1 - Customized Aurora Soul Nutrition Regimen for Soilless Cannabis
+## A customized nutrition regimen for soilless cannabis systems.
 
-## Feed Chart
+### Feed Chart
 
 |             | Seedling | Veg 1 | Veg 2  | Veg 3  | Trans. 1 | Trans. 2 | Flower 1 | Flower 2 | Flower 3 | Ripen 1 | Ripen 2 |
 | ----------- | -------- | ----- | ------ | ------ | -------- | -------- | -------- | -------- | -------- | ------- | ------- |
@@ -22,4 +22,4 @@ categories: nutrition
 | Peak        | 0        | 0     | 0      | 0      | 0        | 0        | 0        | 5ml/G    | 10ml/G   | 10ml/G  | 0       |
 | Micro       | (CloneX) | ¼ml/G | ¼ml/G  | ¼ml/G  | ¼ml/G    | ¼ml/G    | ¼ml/G    | ¼ml/G    | ¼ml/G    | 0       | 0       |
 
-This is a very early version of our Aurora Soul based nutrition line. This was applied to cannabis plants in a coco coir and perlite mix with a combination of hand-delivery and automated irrigation systems. Feel free to customize and adapt it for your needs.
+This is a very early version of our [Aurora Soul](https://www.aurorainnovations.com/soul-liquid-nutrients)-based nutrition line. This was applied to cannabis plants in a coco coir and perlite mix with a combination of hand-delivery and automated irrigation systems. Feel free to customize and adapt it for your needs.
