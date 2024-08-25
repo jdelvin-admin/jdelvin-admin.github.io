@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "ASXv1 - Customized Aurora Soul Nutrition Regimen for Soilless Cannabis"
+date:   2024-08-25 18:15:00 -0400
+categories: nutrition
+---
+
+## Feed Chart
+
+|             | Seedling | Veg 1 | Veg 2  | Veg 3  | Trans. 1 | Trans. 2 | Flower 1 | Flower 2 | Flower 3 | Ripen 1 | Ripen 2 |
+| ----------- | -------- | ----- | ------ | ------ | -------- | -------- | -------- | -------- | -------- | ------- | ------- |
+| Cal-Mag     | 2ml/G    | 5ml/G | 5ml/G  | 10ml/G | 10ml/G   | 15ml/G   | 15ml/G   | 15ml/G   | 15ml/G   | 15ml/G  | 0       |
+| Rhizo Blast | 0        | 2ml/G | 2ml/G  | 2ml/G  | 2ml/G    | 2ml/G    | 0        | 0        | 0        | 0       | 0       |
+| Soul Grow   | 5ml/G    | 5ml/G | 10ml/G | 10ml/G | 5ml/G    | 0        | 0        | 0        | 0        | 0       | 0       |
+| Soul Bloom  | 0        | 0     | 0      | 0      | 10ml/G   | 10ml/G   | 15ml/G   | 15ml/G   | 15ml/G   | 15ml/G  | 10ml/G  |
+| Amino-aide  | 0        | 5ml/G | 5ml/G  | 5ml/G  | 5ml/G    | 2ml/G    | 0        | 0        | 0        | 0       | 0       |
+| Infinity    | 5ml/G    | 5ml/G | 10ml/G | 10ml/G | 10ml/G   | 10ml/G   | 10ml/G   | 15ml/G   | 15ml/G   | 15ml/G  | 10ml/G  |
+| Grow-in     | 0        | 1ml/G | 2ml/G  | 2ml/G  | 2ml/G    | 1ml/G    | 1ml/G    | 1ml/G    | 1ml/G    | 0       | 0       |
+| Big Swell   | 0        | 0     | 0      | 0      | 10ml/G   | 10ml/G   | 15ml/G   | 15ml/G   | 15ml/G   | 15ml/G  | 10ml/G  |
+| Peak        | 0        | 0     | 0      | 0      | 0        | 0        | 0        | 5ml/G    | 10ml/G   | 10ml/G  | 0       |
+| Micro       | (CloneX) | ¼ml/G | ¼ml/G  | ¼ml/G  | ¼ml/G    | ¼ml/G    | ¼ml/G    | ¼ml/G    | ¼ml/G    | 0       | 0       |
+
+This is a very early version of our Aurora Soul based nutrition line. This was applied to cannabis plants in a coco coir and perlite mix with a combination of hand-delivery and automated irrigation systems. Feel free to customize and adapt it for your needs.
