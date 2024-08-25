@@ -22,9 +22,6 @@ Soil-based cultivation is the traditional method of growing cannabis. It involve
 - Limited Control: Soil can be less forgiving of mistakes compared to soilless or hydroponic systems. pH and nutrient levels can be harder to adjust.
 - Potential for Pests: Soil can harbor pests and diseases that might affect plant health.
 
-Sources:
-
-"Soil and Fertilizers for Cannabis Cultivation" - Grow Weed Easy
 
 ### Soilless Cultivation
 
@@ -41,9 +38,6 @@ Soilless cultivation uses mediums like coco coir, perlite, or vermiculite, which
 - Increased Maintenance: Requires regular monitoring of pH and nutrient levels.
 - Nutrient Management: Soilless mediums do not contain nutrients, so regular feeding is essential.
 
-Sources:
-
-"Coco Coir for Cannabis Growing" - Royal Queen Seeds
 
 ### Water-Based Cultivation (Hydroponics)
 
@@ -60,10 +54,7 @@ Water-based or hydroponic systems involve growing cannabis in a nutrient-rich wa
 - Complexity: Hydroponic systems require careful monitoring and maintenance of nutrient solutions and equipment.
 - Initial Setup Cost: Higher initial setup costs compared to soil-based and soilless systems.
 
-Sources:
-
-"Hydroponics: An Overview of Growing Cannabis in Water" - Hydroponics Online
 
 ### Conclusion
 
-Each cannabis growing technique—soil-based, soilless, and water-based—has its unique benefits and challenges. Soil-based cultivation offers natural benefits and ease of use, soilless methods provide better control and aeration, and hydroponics allows for rapid growth and precision. Selecting the right method depends on your goals, resources, and experience level.
+Each cannabis growing technique—soil-based, soilless, and water-based—has its unique benefits and challenges. Soil-based cultivation offers natural benefits and ease of use, soilless methods provide better control and aeration, and hydroponics allows for rapid growth and precision. Fortunatley there is a lot of overlap between soilless mediums like coco coir and full water mediums like RDWC. We use a 49-Gallon RDWC system, and in the past we've ran soilless systems with very similar methodolgies, and seen success. If you're interested in or already running a soilless or DWC system, stay tuned for more from J. Delvin Botanicals! 
