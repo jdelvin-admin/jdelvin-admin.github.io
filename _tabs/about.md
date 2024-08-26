@@ -22,8 +22,9 @@ While the site is primarily documentation for our own reference, we hope others 
 - Built with [Jekyll](https://jekyllrb.com/)
 - Hosted by [GitHub Pages](https://pages.github.com/)
 - Styled with [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+- Protected by [Cloudflare](https://developers.cloudflare.com/dns/)
 
 ## Disclosures
-- We do not implement any tracking, cookies, or similar technolgies into our website directly.
+- We do not currently implement any tracking, cookies, or similar technolgies into our website directly. This is subject to change.
 - Links to outside sources, including our own shortlink system ([🔥🌿🌫️.ws](https://🔥🌿🌫️.ws)) may include some tracking technologies.
 - We may ocassionally use Amazon affiliate shortlinks when recommending products we have personally used. 
