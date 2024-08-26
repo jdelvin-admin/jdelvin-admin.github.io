@@ -3,6 +3,12 @@
 icon: fas fa-cart-shopping
 order: 5
 ---
+<style>
+table td, table th {
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+}
+</style>
 
 # WIP
 
