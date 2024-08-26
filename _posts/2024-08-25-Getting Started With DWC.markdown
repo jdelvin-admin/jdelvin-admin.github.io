@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Started with Deep Water Culture"
 date:   2024-08-25 20:16:00 -0400
-categories: nutrition, methodology
+categories: nutrition methodology
 ---
 
 We recently started working with a recirculating deep water culture system, or RDWC. Since we've been running different variations of soilless systems for a while now, this wasn't too big of a jump. However we've needed to make some changes to accomodate the new medium nonetheless. In this post we'll give you a basic rundown of our nutrition line. We reccomend running these nutrients at thier manufacturer-reccomended specs, and adjusting/supplementing as you see fit for your strains/phenos.
