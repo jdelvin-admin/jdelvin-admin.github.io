@@ -8,15 +8,15 @@ order: 5
 
 ## Nutrients
 
-| **Product**           | **Link**                         | **Why we *love* it.**                                                                                                                                                         |
-| --------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GH FloraNova (Combo)  | [Order](https://amzn.to/3AAXlrr) | Description                                                                                                                                                                   |
-| GH Armor Si           | [Order](https://amzn.to/3Xj1d9G) | Description                                                                                                                                                                   |
-| GH CALiMAGic          | [Order](https://amzn.to/3yUARkY) | Description                                                                                                                                                                   |
-| GH Liquid KoolBloom   | [Order](https://amzn.to/3yRbArQ) | Description                                                                                                                                                                   |
-| GH Floralicious Plus  | [Order](https://amzn.to/4dBUNIf) | Description                                                                                                                                                                   |
-| BC HydroGuard         | [Order](https://amzn.to/3T4tdv5) | Description                                                                                                                                                                   |
-| BC RhizoBlast         | [Order](https://amzn.to/4dDUFrI) | Description                                                                                                                                                                   |
+| **Product**           | **Link**                         | **Why we *love* it.**                                                                                                                                             |
+| --------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| GH FloraNova (Combo)  | [Order](https://amzn.to/3AAXlrr) | These concentrated "one-part" nutrients are comprehensive enough to be their own complete nutrient line if you're just learning to grow or on a budget.           |
+| GH Armor Si           | [Order](https://amzn.to/3Xj1d9G) | This handy silicon source is important for plant structure and overall health.                                                                                    |
+| GH CALiMAGic          | [Order](https://amzn.to/3yUARkY) | This calcium and magnesium supplement helps to prevent common plant ailments like bud rot and tip burn.                                                           |
+| GH Liquid KoolBloom   | [Order](https://amzn.to/3yRbArQ) | This phosphorus and potassium source contributes to overall weight/flower production, as well as important biochemical processes needed for terpene production.   |
+| GH Floralicious Plus  | [Order](https://amzn.to/4dBUNIf) | This humic acid source enhances nutrient uptake, letting your plants get the most out of thier food.                                                              |
+| BC HydroGuard         | [Order](https://amzn.to/3T4tdv5) | HydroGuard inoculates your medium with bacillus bateria that outcompete potentially unwanted biolife, and may break down organic material into useable nutrients. |
+| BC RhizoBlast         | [Order](https://amzn.to/4dDUFrI) | This blend of nutrients, seaweed, and engineered algae aids in root development, nutrient uptake, and may break down organic material into useable nutrients.     |
 
 ## Consumables
 
