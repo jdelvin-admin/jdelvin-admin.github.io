@@ -51,10 +51,10 @@ Our last critical component is another of Botanicare's, what can we say, they ma
 We wanted to throw this in at the end as a little bonus. Properly measuring and monitoring your nutrient solution is absolutley key in a DWC system. Here are some of the tools we've found the most helpful.
 
 ### pH Pen
-A solid pH pen is important to keep your plants within a healthy range. pH is important not only for nutrient uptake, but also to help keep unwanted organisms out of your reservior. We love the Hach Pro pH+, but as long as you keep your pen calibrated and replace the probe as needed, you should be able to use any reputable pH pen.
+A solid pH pen is important to keep your plants within a healthy range. pH is important not only for nutrient uptake, but also to help keep unwanted organisms out of your reservior. We love the[ ]Hach Pro pH+](https://amzn.to/3MhBmbT), but as long as you keep your pen calibrated and replace the probe as needed, you should be able to use [any reputable pH pen](https://amzn.to/3Z66QsO).
 
 ### EC Pen
-EC is an important metric to know the overal concetration of disovled solids in your nutrient solution. THis allows you to confirm a proper mix, and to make differential adjustments to your nutrients. A reliable EC pen or two is always great to have on hand to make sure you're on the right track.
+EC is an important metric to know the overal concetration of disovled solids in your nutrient solution. THis allows you to confirm a proper mix, and to make differential adjustments to your nutrients. A [reliable EC pen](https://amzn.to/4dHWnIH) or two is always great to have on hand to make sure you're on the right track.
 
-### Various Sized Pipettes
+### Measures
 You can fiddle aroud with teaspons and conversion charts all way, getting nutrients all over your hands and counters. Or you can embrace metric supremacy and buy some standard pipettes. We like to keep [1mL](https://amzn.to/4cF4u7p) and [5mL](https://amzn.to/3WUFq6G) on hand for small volumes. For larger volumes we use a [blunt syringe](https://amzn.to/3T4JEr8) or a [glass beaker](https://amzn.to/4cB84jb). If you want high precision with ease consider in investing in a [micropipette](https://amzn.to/3MlybzR). We like using the 1mL pipettes and find thier accuracy to be sufficient for our needs, but the micropipette is a fantastic option if you have accessibility needs.
