@@ -5,10 +5,23 @@ date:   2024-08-25 20:16:00 -0400
 categories: nutrition methodology
 ---
 
-We recently started working with a recirculating deep water culture system, or RDWC. Since we've been running different variations of soilless systems for a while now, this wasn't too big of a jump. However we've needed to make some changes to accomodate the new medium nonetheless. In this post we'll give you a basic rundown of our nutrition line. We reccomend running these nutrients at thier manufacturer-reccomended specs, and adjusting/supplementing as you see fit for your strains/phenos.
+We recently started working with a recirculating deep water culture system, or RDWC. Since we've been running different variations of soilless systems for a while now, this wasn't too big of a jump. However we've needed to make some changes to accomodate the new medium nonetheless. In this post we'll give you a basic rundown of our nutrition line and grow setup.
+
+## Setup
+
+When growing cannabis in Ohio in compliance with Section 3780.29, you can only grow 6 plants per adult, with a max of 12 per household. So our setup should be optimized to accomodate 6 plants as optimally as possible.
+
+### Lights
+
+Outdoor growing is not yet permitted in Ohio under any current legislation. Light is arguably the most important thing in the growing of your plants, so this will be our our most significant cost. If your budget allows for it, grab 2 of these [full spectrum grow lights](https://amzn.to/3WWSFE1), otherwise pick up one and consider scaling up later if you need it. More than anything else, we cannot reccomend enough investing in a quality light.
+
+### Hydro System
+
+Our hydro system doesn't need to be too complex. Since Ohio's limit is only 6-12 plants, we only need a system capable of handling 6 adult plants. *(If you have another adult in your household, this gives you the flexability to start germinating a new round before your current flowering plants are harvested, without worrying about any legal grey areas.)* We like the simple installation process provided by a [top-feed bucket-based](https://amzn.to/3T5IFqN) system.
 
 ## Nutrition
-Our base nutritional needs will be provided for by [GH FloraNova Grow and Bloom](https://amzn.to/3AAXlrr). The FloraNova line by General Hydroponics is a comprehensive "1-part" nutrient system. This means you can technically run just a single nutrient at any given time, depending on whether your plants are in veg or bloom, and your plants would survive and grow just fine. However we want our plants to properly thrive, so we'll be adding some additional supplements and incoulents to really give them an extra edge.
+
+Our base nutritional needs will be provided for by [GH FloraNova Grow and Bloom](https://amzn.to/3AAXlrr). The FloraNova line by General Hydroponics is a comprehensive "1-part" nutrient system. This means you can technically run just a single nutrient at any given time, depending on whether your plants are in veg or bloom, and your plants would survive and grow just fine. However we want our plants to properly thrive, so we'll be adding some additional supplements and incoulents to really give them an extra edge. We reccomend running these nutrients at thier manufacturer-reccomended specs, and adjusting/supplementing as you see fit for your strains/phenos.
 
 ## Supplements
 
