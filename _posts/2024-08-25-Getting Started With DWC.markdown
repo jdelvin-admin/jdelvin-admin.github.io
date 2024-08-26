@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Started with Deep Water Culture"
 date:   2024-08-25 20:16:00 -0400
-categories: nutrition methodology
+categories: Growing
 tags: guide General-Hydroponics Botanicare RDWC nutrient feed-schedule soilless
 ---
 
