@@ -9,7 +9,7 @@ We recently started working with a recirculating deep water culture system, or R
 
 ## Setup
 
-When growing cannabis in Ohio in compliance with Section 3780.29, you can only grow 6 plants per adult, with a max of 12 per household. So our setup should be optimized to accommodate 6 plants as optimally as possible.
+When growing cannabis in Ohio in compliance with [Section 3780.29](https://codes.ohio.gov/ohio-revised-code/section-3780.29), you can only grow 6 plants per adult, with a max of 12 per household. So our setup should be optimized to accommodate 6 plants as optimally as possible.
 
 ### Lights
 
@@ -57,4 +57,7 @@ A solid pH pen is important to keep your plants within a healthy range. pH is im
 EC is an important metric to know the overall concentration of dissolved solids in your nutrient solution. T His allows you to confirm a proper mix, and to make differential adjustments to your nutrients. A [reliable EC pen](https://amzn.to/4dHWnIH) or two is always great to have on hand to make sure you're on the right track.
 
 ### Measures
-You can fiddle around with teaspoons and conversion charts all way, getting nutrients all over your hands and counters. Or you can embrace metric supremacy and buy some standard pipettes and measures. We like to keep [1mL](https://amzn.to/4cF4u7p) and [5mL](https://amzn.to/3WUFq6G) on hand for small volumes. For larger volumes we use a [blunt syringe](https://amzn.to/3T4JEr8) or a [glass beaker](https://amzn.to/4cB84jb). If you want high precision with ease consider in investing in a [micropipette](https://amzn.to/3MlybzR). We like using the 1mL pipettes and find their accuracy to be sufficient for our needs, but the micropipette is a fantastic option if you have accessibility needs.
+You can fiddle around with teaspoons and conversion charts all day, getting nutrients on your hands, counters, and floor. Or you can embrace metric supremacy and buy some standard pipettes and measures. We like to keep [1mL](https://amzn.to/4cF4u7p) and [5mL](https://amzn.to/3WUFq6G) on hand for small volumes. For larger volumes we use a [blunt syringe](https://amzn.to/3T4JEr8) or a [glass beaker](https://amzn.to/4cB84jb). If you want high precision with ease consider in investing in a [micropipette](https://amzn.to/3MlybzR). We like using the 1mL pipettes and find their accuracy to be sufficient for our needs, but the micropipette is a fantastic option if you have accessibility needs.
+
+## Conclusion
+We hope this top down overview helps to give you an understanding of an optimized [Section 3780.29](https://codes.ohio.gov/ohio-revised-code/section-3780.29)-compliant cannabis grow-op. We haven't included every aspect and detail of our setup or nutrition line, as everyone will want to customize it a bit as they choose, but we think this is a great start to start producing your own cannabis, legally.
