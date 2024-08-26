@@ -17,3 +17,13 @@ The IT side of things, like this website, is managed by [Ethan Cochran](https://
 This website serves as a repository of information related to the growing, curing/storage, processing, and applications of cannabis. The information you'll find here is a synthesis of our own experience from years of growing, general best practices from authoritative sources, and crowd-sourced information from niche online communities. 
 
 While the site is primarily documentation for our own reference, we hope others will find the information here useful as well.
+
+## Acknowledgements
+- Built with [Jekyll](https://jekyllrb.com/)
+- Hosted by [GitHub Pages](https://pages.github.com/)
+- Styled with [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+
+## Disclosures
+- We do not implement any tracking, cookies, or similar technolgies into our website directly.
+- Links to outside sources, including our own shortlink system (🔥🌿🌫️.ws) may include some tracking technologies.
+- We may ocassionally use Amazon affiliate shortlinks when recommending products we have personally used. 
