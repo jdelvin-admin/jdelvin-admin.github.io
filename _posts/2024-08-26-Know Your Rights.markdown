@@ -7,15 +7,16 @@ tags: Ohio rights laws
 ---
 
 > **This is not legal advice, we are not lawyers.**
+> We have slightly modified the formatting of this content from it's original form, including moving some clauses to other sections, for the sake of readability. To our knowledge, we have adhered to the original intent and meaning of the source material.
 > *If **you** are a lawyer and would like to contribute to this documentation, which is **not legal advice**, please reach out to us!*
 
 ### [Section 3780.04](https://codes.ohio.gov/ohio-revised-code/section-3780.04) - Allowable forms of adult use cannabis.
 
-> This section outlines allowable forms of cannabis. Nearly anything you could possibly want to produce is covered and allowed. However section 29 disallows home growers from using hydrocarbon base extraction, so concentrate options are limited.
+> This section outlines allowable forms of cannabis. Nearly anything you could possibly want to posses is covered and allowed.
 
 ### [Section 3780.29](https://codes.ohio.gov/ohio-revised-code/section-3780.29) - Home grow
 
-> This section is the primary focus of this guide, so we'll be deep diving each detail below.
+> As Section 29 growers, this is the primary focus of our article, so we'll be deep diving each detail below.
 
 #### Plant Limit
 
@@ -29,7 +30,9 @@ Plants must be in a secured closet, room, greenhouse, or other private area on t
 
 #### Processing
 
-You are allowed to process your harvested product by manual or mechanical means.
+You are allowed to process your harvested product by manual or mechanical means. 
+
+> This provision is rather vague and short, but I believe this is specifically outlining that it's legal to cut down, trim, cure, and further process your cannabis how you wish, with one exception ([see below](#section-378099---what-you-cannot-do)). 
 
 #### Live Plants
 
