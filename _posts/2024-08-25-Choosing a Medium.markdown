@@ -3,6 +3,7 @@ layout: post
 title:  "Choosing a Medium"
 date:   2024-08-25 17:15:00 -0400
 categories: methodology
+tags: soil soilless hydro dwc rdwc
 ---
 
 When cultivating cannabis, growers have a range of growing mediums to choose from, each offering distinct advantages and challenges. The primary techniques include soil-based, soilless, and water-based systems. Understanding these methods can help you select the best approach for your needs.

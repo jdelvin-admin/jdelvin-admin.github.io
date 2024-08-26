@@ -3,6 +3,7 @@ layout: post
 title:  "ASXv1 - Nutrition Regimen"
 date:   2024-08-25 18:15:00 -0400
 categories: nutrition
+tags: "Aurora Soul" nutrient "feed schedule"
 ---
 
 ## A customized nutrition regimen for soilless cannabis systems.

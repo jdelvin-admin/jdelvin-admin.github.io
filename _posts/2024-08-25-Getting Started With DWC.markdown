@@ -3,6 +3,7 @@ layout: post
 title:  "Getting Started with Deep Water Culture"
 date:   2024-08-25 20:16:00 -0400
 categories: nutrition methodology
+tags: guide "General Hydroponics" "Botanicare" RDWC nutrient "feed schedule" soilless
 ---
 
 We've recently started working with a recirculating deep water culture (RDWC) system. Since we've been running different variations of soilless systems for a while now, this wasn't too big of a jump. However we've needed to make some changes to accommodate the new medium nonetheless. In this post we'll give you a basic rundown of our nutrition line and grow setup. 
