@@ -25,5 +25,5 @@ While the site is primarily documentation for our own reference, we hope others 
 
 ## Disclosures
 - We do not implement any tracking, cookies, or similar technolgies into our website directly.
-- Links to outside sources, including our own shortlink system (🔥🌿🌫️.ws) may include some tracking technologies.
+- Links to outside sources, including our own shortlink system ([🔥🌿🌫️.ws](https://🔥🌿🌫️.ws)) may include some tracking technologies.
 - We may ocassionally use Amazon affiliate shortlinks when recommending products we have personally used. 
