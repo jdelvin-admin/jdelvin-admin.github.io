@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2023-12-07 00:00:00 -0400
+date:   2023-12-07 12:00:00 -0400
 categories: Meta
 ---
 J. Delvin Botanicals is a Section 3780.29 cultivator of high quality cannabis located in Knox County, Ohio.
