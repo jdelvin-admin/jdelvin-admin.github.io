@@ -7,3 +7,4 @@ tags: guide hash concentrates
 ---
 
 ## WIP
+This article is currently being researched.
