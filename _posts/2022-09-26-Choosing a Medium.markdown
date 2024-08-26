@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Choosing a Medium"
-date:   2024-08-25 17:15:00 -0400
+date:   2022-09-26 12:37:00 -0400
 categories: Growing
 tags: soil soilless hydro dwc rdwc
 ---

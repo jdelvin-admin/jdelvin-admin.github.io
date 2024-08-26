@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ASXv1 - Nutrition Regimen"
-date:   2024-08-25 18:15:00 -0400
+date:   2022-04-29 00:00:00 -0400
 categories: Growing
 tags: Aurora-Soul nutrient feed-schedule
 ---
