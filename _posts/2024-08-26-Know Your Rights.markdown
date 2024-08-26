@@ -37,7 +37,9 @@ You may transfer up to 6 cannabis plants to another legal adult cannabis user as
 
 #### Possesion
 
-An adult cannabis users may store cannabis in thier own home, whether they purchased it at a dispensary, or it was home grown.
+An adult cannabis users may store cannabis in thier own home, whether they purchased it at a dispensary, or it was home grown. 
+
+> No limits or numbers are mentioned, so it can be reasoned as long as one is following all other sections of the code and other applicable laws, **any amount can be stored** at an individuals residence.
 
 ### [Section 3780.33](https://codes.ohio.gov/ohio-revised-code/section-3780.33) - Liabilities and immunities
 
