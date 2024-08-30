@@ -6,10 +6,12 @@ categories: Growing
 tags: Aurora-Soul nutrient feed-schedule
 ---
 
+## A customized nutrition regimen for soilless cannabis systems.
+
+This is a very early version of our [Aurora Soul](https://www.aurorainnovations.com/soul-liquid-nutrients)-based nutrition line. This was applied to cannabis plants in a coco coir and perlite mix with a combination of hand-delivery and automated irrigation systems. Feel free to customize and adapt it for your needs.
+
 *[#CommissionsEarned](https://jdelvin.org/about/#disclosures)*
 {: style="font-size: 0.8rem; text-align: center;"}
-
-## A customized nutrition regimen for soilless cannabis systems.
 
 ### Feed Chart
 
@@ -25,5 +27,3 @@ tags: Aurora-Soul nutrient feed-schedule
 | [Big Swell](https://amzn.to/3WYV6FX)   | 0        | 0     | 0      | 0      | 10ml/G   | 10ml/G   | 15ml/G   | 15ml/G   | 15ml/G   | 15ml/G  | 10ml/G  |
 | [Peak](https://amzn.to/3AxCHbJ)        | 0        | 0     | 0      | 0      | 0        | 0        | 0        | 5ml/G    | 10ml/G   | 10ml/G  | 0       |
 | [Micro](https://amzn.to/4711wsM)       | 0        | ¼ml/G | ¼ml/G  | ¼ml/G  | ¼ml/G    | ¼ml/G    | ¼ml/G    | ¼ml/G    | ¼ml/G    | 0       | 0       |
-
-This is a very early version of our [Aurora Soul](https://www.aurorainnovations.com/soul-liquid-nutrients)-based nutrition line. This was applied to cannabis plants in a coco coir and perlite mix with a combination of hand-delivery and automated irrigation systems. Feel free to customize and adapt it for your needs.
