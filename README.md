@@ -1,2 +1,3 @@
 https://jdelvin.org
-Some rights reserved.
+
+*Some rights reserved.*
