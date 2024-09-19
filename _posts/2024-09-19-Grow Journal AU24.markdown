@@ -20,7 +20,7 @@ Having long outgrown their starter cubes, all the plants have transitioned well 
 
 ### Veg Day 15
 
-With the plants now fully acclimated to the RDWC system, and the probably calcium deficiency taken care of, the plants are beginning to really fill out. The three Gorilla Cookies (whole back row) are pulling ahead, with Bourbon Berry (front row, farthest left) not far behind. 
+With the plants now fully acclimated to the RDWC system, and the probable calcium deficiency taken care of, the plants are beginning to really fill out. The three Gorilla Cookies (whole back row) are pulling ahead, with Bourbon Berry (front row, farthest left) not far behind. 
 
 The Forbidden Runtz (front row, farthest right) is the smallest of the pack so far, but is otherwise healthy and shows no signs of nutrient deficiency or burn.
 
