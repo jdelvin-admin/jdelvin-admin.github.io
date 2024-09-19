@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Grow Journal (Batch AU24)"
-date:   2024-09-19 00:00:00 -0400
+title:  "Grow Journal: Aug - Nov 2024"
+date:   2024-09-19 00:00:01 -0400
 categories: Growing
 tags: log journal Gorilla-Cookies Lemon-Pie Forbidden-Runts Bourbon-Berry FastBuds Twenty20 General-Hydroponics Botanicare DWC RDWC
 ---
