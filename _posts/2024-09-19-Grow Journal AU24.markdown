@@ -12,6 +12,12 @@ On the 18th of August, 4 out of 6 seedlings have popped out of their shells, and
 
 ![Seedling photo from August 18th 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-08-18.jpg) *Copyright ©️ JD Henson 2024*
 
+### Veg Begins
+
+Between August 21st - 23rd all plants have properly began vegetative growth, and are now transferred into the RDWC system. A layout diagram has been made for easy reference throughout this article.
+
+![Diagram visualizing the layout of different cannabis strains in the AU24 batch.](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-03-diagram.png)
+
 ### Veg Day 11
 
 Having long outgrown their starter cubes, all the plants have transitioned well into into their reservoirs. While there is no obvious signs of a leader(s) yet, there is a probable calcium deficiency noticeable on one of the Gorilla Cookies (back row, farthest right). 
