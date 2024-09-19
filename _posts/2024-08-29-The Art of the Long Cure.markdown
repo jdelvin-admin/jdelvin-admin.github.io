@@ -4,6 +4,7 @@ title:  "The Art of the Long Cure"
 date:   2024-08-29 14:00:00 -0400
 categories: Processing
 tags: cure curing harvest storage humidity artisanal
+author: emc
 ---
 
 Curing cannabis has many benefits. In addition to allowing for a longer shelf life as the name implies, curing cannabis also has a tendency to significantly mellow out any harsh notes, and overall improves flavor and aroma significantly. Cannabis that was improperly cured can smells like hay or grass, or worse yet may smell of ammonia. 

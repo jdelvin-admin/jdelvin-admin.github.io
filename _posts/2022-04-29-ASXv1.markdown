@@ -4,6 +4,7 @@ title:  "ASXv1 - Nutrition Regimen"
 date:   2022-04-29 00:00:00 -0400
 categories: Growing
 tags: Aurora-Soul nutrient feed-schedule
+author: jdh
 ---
 
 ## A customized nutrition regimen for soilless cannabis systems.

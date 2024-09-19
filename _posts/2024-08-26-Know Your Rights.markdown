@@ -4,6 +4,7 @@ title:  "Know Your Rights - Ohio Revised Code 3780"
 date:   2024-08-26 16:30:00 -0400
 categories: Meta
 tags: Ohio rights laws 
+author: emc
 ---
 
 > **This is not legal advice, we are not lawyers.**
