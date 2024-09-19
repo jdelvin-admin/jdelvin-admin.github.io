@@ -8,6 +8,9 @@ tags: guide General-Hydroponics Botanicare RDWC nutrient feed-schedule soilless
 
 We've recently started working with a recirculating deep water culture (RDWC) system. Since we've been running different variations of soilless systems for a while now, this wasn't too big of a jump. However we've needed to make some changes to accommodate the new medium nonetheless. In this post we'll give you a basic rundown of our nutrition line and grow setup. 
 
+*[#CommissionsEarned](https://jdelvin.org/about/#disclosures)*
+{: style="font-size: 0.8rem; text-align: center;"}
+
 ## Hardware
 
 When growing cannabis in Ohio in compliance with [Section 3780.29](https://codes.ohio.gov/ohio-revised-code/section-3780.29), you can only grow 6 plants per adult, with a max of 12 per household. So our setup should be optimized to accommodate 6 plants as optimally as possible.

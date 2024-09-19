@@ -8,6 +8,9 @@ tags: cure curing harvest storage humidity artisanal
 
 Curing cannabis has many benefits. In addition to allowing for a longer shelf life as the name implies, curing cannabis also has a tendency to significantly mellow out any harsh notes, and overall improves flavor and aroma significantly. Cannabis that was improperly cured can smells like hay or grass, or worse yet may smell of ammonia. 
 
+*[#CommissionsEarned](https://jdelvin.org/about/#disclosures)*
+{: style="font-size: 0.8rem; text-align: center;"}
+
 ### What's that smell?
 
 Ammonia smells can develop when cannabis is stored in too humid of an environment, it is evidence of anaerobic activity and is a harbinger of mold, or worse. If you just have a hint of ammonia smell, your bud likely needs "burped", or allowed to air out with plenty of circulation for an hour or so at a time. If the ammonia smell is overwhelming, it may need disposed of. 

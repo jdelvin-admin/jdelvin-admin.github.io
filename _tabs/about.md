@@ -25,6 +25,6 @@ While the site is primarily documentation for our own reference, we hope others 
 - Protected by [Cloudflare](https://developers.cloudflare.com/dns/)
 
 ## Disclosures
+- J. Devlin Botanicals is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn advertising fees by linking to Amazon.com and affiliated websites. We will never recommend products we have not personally used, but we do earn a commission from qualifying purchases.
 - We do not currently implement any tracking, cookies, or similar technolgies into our website directly. This is subject to change.
 - Links to outside sources, including our own shortlink system ([🔥🌿🌫️.ws](https://🔥🌿🌫️.ws)) may include some tracking technologies.
-- We may ocassionally use Amazon affiliate shortlinks when recommending products we have personally used. 
