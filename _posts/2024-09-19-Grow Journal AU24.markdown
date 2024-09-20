@@ -4,7 +4,7 @@ title:  "Grow Journal: Aug - Nov 2024"
 date:   2024-09-19 00:00:01 -0400
 categories: Growing
 tags: log journal Gorilla-Cookies Lemon-Pie Forbidden-Runts Bourbon-Berry FastBuds Twenty20 General-Hydroponics Botanicare DWC RDWC
-authors: [emc, jdh]
+authors: [jdh, emc]
 ---
 
 ### Germination
@@ -15,7 +15,7 @@ On the 18th of August, 4 out of 6 seedlings have popped out of their shells, and
 
 ### Veg Begins
 
-Between August 21st - 23rd all plants have properly began vegetative growth, and are now transferred into the RDWC system. A layout diagram has been made for easy reference throughout this article.
+Between August 21st – 23rd all plants have properly began vegetative growth, and are now transferred into the RDWC system. A layout diagram has been made for easy reference throughout this article.
 
 ![Diagram visualizing the layout of different cannabis strains in the AU24 batch.](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-03-diagram.png)
 
@@ -44,3 +44,21 @@ Just under one week into flower, the plants are transitioning nicely and beginni
 Despite some minor issues with nutrient concentration due to faulty measuring equipment, the crop is looking fantastic. While the Forbidden Runtz is still the smallest of the pack, you can see it has very tight internodal spacing, and has a pretty high density of bud sites. It's larger sisters are similarly healthy.
 
 ![Flowering photo from September 17th 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-17.png) *September 17th - Copyright ©️ JD Henson 2024*
+
+### Flower Day 12
+
+On day F9 (after taking the above photo) the entire crop was lollipopped. Lollipopping is a very popular technique used by many growers alike, but the question of why you do it is an important one. Lollipopping's definition as I see it, is removing unnecessary leaf and branches that will just flat out not make to the surface of the canopy. This will not only make the plant focus more on its productive branches, but will also help the plant breathe.
+
+![Post-lollipop photo from September 20th 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-20.jpg) *September 20th - Copyright ©️ JD Henson 2024*
+
+Removing this extra material will allow a better exchange of airflow, allowing the removal of stagnant O2 left over from photosynthesis, and providing a better supply of fresh CO2 (*i.e. "Breathing"*). In a more traditional soil or semi-soil system, this may also help with pests, but will have little effect in that regard with our medium.
+
+![Post-lollipop photo from September 20th 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-20.png) *September 20th - Copyright ©️ JD Henson 2024*
+
+As you can see, we go for a much less aggressive approach than some growers. Our goal is to only remove branches that would essentially feel like a waste of time to even bother processing once harvested. Good quality LED lights tend to provide great light penetration, so in our case, it is really only the bottom couple of nodes on each plant that get removed.
+
+![Post-lollipop photo from September 20th 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-20b.png) *September 20th - Copyright ©️ JD Henson 2024*
+
+Overall with the group firmly in their transitional period, upward growth has slowed somewhat. However, all of the plants continue stacking new nodes, and have begun the formation of future colas. Even our outlier, Forbidden Runtz, is looking very promising at this stage.
+
+![Flowering photo from September 20th 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-20c.png) *September 20th - Copyright ©️ JD Henson 2024*
