@@ -18,7 +18,7 @@ When growing cannabis in Ohio in compliance with [Section 3780.29](https://codes
 
 ### Lights
 
-Light is arguably the most important thing in the growing of your plants, so this will be our our most significant cost. If your budget allows for it, grab 2 of these [full spectrum grow lights](https://amzn.to/3WWSFE1), otherwise pick up one and consider scaling up later if you need it. More than anything else, we cannot recommend enough investing in a quality light.
+Light is arguably the most important thing in the growing of your plants, so this will be our our most significant cost. If your budget allows for it, grab 2 of these [full spectrum grow lights](https://amzn.to/3zr2LVT), otherwise pick up one and consider scaling up later if you need it. More than anything else, we cannot recommend enough investing in a quality light.
 
 ### Hydro System
 

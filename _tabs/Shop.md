@@ -53,6 +53,6 @@ table td, table th {
 
 | **Product**      | **Link**                         | **Why we *love* it.**                                                                                                                                                         |
 | ---------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 720w Grow Light  | [Order](https://amzn.to/3WWSFE1) | The Pro pH+ is not only easy to calibrate, easy to use, and highly accurate, but best of all, it has a replacable probe head so you don't have to buy a new one every year.   |
+| 720w Grow Light  | [Order](https://amzn.to/3zr2LVT) |  picasso i like it   |
 | RDWC System      | [Order](https://amzn.to/3T5IFqN) | This easy to assemble RDWC system provides space for 6 plants, the optimal number to maximise yield while staying within the law.                                             |
 | Outlet Timer     | [Order](https://amzn.to/4g1IeHL) | These affordable timers are rated to handle more than enough wattage for each light. A small battery ensures brief power outages wont erase your settings.                    |
