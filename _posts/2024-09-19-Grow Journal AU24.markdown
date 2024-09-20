@@ -7,6 +7,8 @@ tags: log journal Gorilla-Cookies Lemon-Pie Forbidden-Runts Bourbon-Berry FastBu
 authors: [jdh, emc]
 ---
 
+Batch AU24 is a 6-plant group of autoflowering cannabis being grown in a 50 gallon recirculating deep water culture system. The group germinated between August 18th & 19th, and is expected to be harvest around November 11th. This is our first run using a RDWC system, so while we are using relativley fresh genetics, we are mostly sticking to a known and trusted breeder for our seeds. Our nutrition/supplement needs are covered with a custom regimen combining products from General Hydroponics and Botanicare. Light is provided by 2x ROI-E720 LED fixtures, with an exceptional PAR output of 1850 umol ppf, these fixtures are more than sufficient for our grow space.
+
 ### Germination
 
 On the 18th of August, 4 out of 6 seedlings have popped out of their shells, and by the 19th all plants have presumably begun photosynthesis. The two labels obscured in the below image are Lemon Pie and Forbidden Runtz, both bred by Fast Buds. Gorilla Cookies is another autoflower bred by Fast Buds. Bourbon Berry, the odd one out, is an autoflower bred by Twenty20.
