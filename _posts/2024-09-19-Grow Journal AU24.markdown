@@ -7,7 +7,7 @@ tags: log journal Gorilla-Cookies Lemon-Pie Forbidden-Runts Bourbon-Berry FastBu
 authors: [jdh, emc]
 ---
 
-Batch AU24 is a 6-plant group of autoflowering cannabis being grown in a 50 gallon recirculating deep water culture system. The group germinated between August 18th & 19th, and is expected to be harvest around November 11th. This is our first run using a RDWC system, so while we are using relativley fresh genetics, we are mostly sticking to a known and trusted breeder for our seeds. Our nutrition/supplement needs are covered with a custom regimen combining products from General Hydroponics and Botanicare. Light is provided by 2x ROI-E720 LED fixtures, with an exceptional PAR output of 1850 umol ppf, these fixtures are more than sufficient for our grow space.
+Batch AU24 is a 6-plant group of autoflowering cannabis being grown in a 50 gallon recirculating deep water culture system. The group germinated between August 18th & 19th, and is expected to be harvest around November 11th. This is our first run using a RDWC system, so while we are using relatively fresh genetics, we are mostly sticking to a known and trusted breeder for our seeds. Our nutrition/supplement needs are covered with a custom regimen combining products from General Hydroponics and Botanicare. Light is provided by 2x ROI-E720 LED fixtures, with an exceptional PAR output of 1850 umol ppf, these fixtures are more than sufficient for our grow space.
 
 ### Germination
 
@@ -64,3 +64,19 @@ As you can see, we go for a much less aggressive approach than some growers. Our
 Overall with the group firmly in their transitional period, upward growth has slowed somewhat. However, all of the plants continue stacking new nodes, and have begun the formation of future colas. Even our outlier, Forbidden Runtz, is looking very promising at this stage.
 
 ![Flowering photo from September 20th 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-20c.png) *September 20th - Copyright ©️ JD Henson 2024*
+
+### Flower Day 15
+
+Having mostly finished their transitional period, this is when *we* consider the plants to have truly started flower/bloom. For the past 2 weeks or so, they have been getting a blend of nutrients that focuses both on root/leaf/stem development, as well as nutrients for flower production. There is a whole lot going on under the hood at this time, so they're getting about the most diverse range of nutes and supplements they will their whole lives. From this point on though, it's all about flower production. Shier nutrition regimen will further specialize, their growth will change dramatically, and the plants have already begun to show it.
+
+![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-23.png) *September 23rd - Copyright ©️ JD Henson 2024*
+
+Aside from differences in size alone, you can really begin to see the difference in strains and phenotypes coming out of the transition period. Note the significant difference in cola formation between the Lemon Pie and any of the other plants. Lemon Pie is very showing in its historically Sativa genetics, in stark contrast Forbidden Runts which is an indica-dominant hybrid (of which we got a particularly indica-dominant pheno) sits much lower, and is stacking tighter. 
+
+![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-23b.png) *September 23rd - Copyright ©️ JD Henson 2024*
+
+The Gorilla Cookies fall somewhere in between, with their lineage being closer to a truly balanced hybrid. The far left (according to the diagram above) Gorilla Cookies is the most indica-presenting (despite its very large size, it has tighter internodal spacing & more indica-presenting leaves), with the far right Gorilla Cookies the most sativa-presenting.
+
+![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-23c.png) *September 23rd - Copyright ©️ JD Henson 2024*
+
+Overall, all the plants in the batch are coming into full flower with very strong and tight stacking across the board, and noticeable trichome production beginning on the middlemost Gorilla Cookies.
