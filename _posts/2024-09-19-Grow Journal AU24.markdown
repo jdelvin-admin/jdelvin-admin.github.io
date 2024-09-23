@@ -7,7 +7,7 @@ tags: log journal Gorilla-Cookies Lemon-Pie Forbidden-Runts Bourbon-Berry FastBu
 authors: [jdh, emc]
 ---
 
-Batch AU24 is a 6-plant group of autoflowering cannabis being grown in a 50 gallon recirculating deep water culture system. The group germinated between August 18th & 19th, and is expected to be harvest around November 11th. 
+Batch AU24 is a 6-plant group of autoflowering cannabis being grown in a 50 gallon recirculating deep water culture system. The group germinated between August 18th and 19th, and is expected to be harvest around November 11th. 
 
 - This is our first run using a RDWC system, so while we are using relatively fresh genetics, we are mostly sticking to a known and trusted breeder for our seeds. 
 - Our nutrition/supplement needs are covered with a custom regimen combining products from General Hydroponics and Botanicare. 
@@ -38,6 +38,14 @@ With the plants now fully acclimated to the RDWC system, and the probable calciu
 The Forbidden Runtz (front row, farthest right) is the smallest of the pack so far, but is otherwise healthy and shows no signs of nutrient deficiency or burn.
 
 ![Vegetative photo from September 7th 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-07.jpg) *September 7th - Copyright ©️ JD Henson 2024*
+
+### Flower Begins
+
+At this point it's important for us to talk about the difference between autoflower and photoperiod cannabis. At it's most simple, autoflowers have a genetic hard-coded lifespan, while photos have a life cycle that adapts to light. Photos give you more control, and room for error, however they require strict isolation from light during their off-period, and often require more training. Autos in contrast with their fixed lifespan, have little room for error, but often flower faster and may require less training for an optimal canopy. 
+
+People have lots of strong opinions about the photo vs auto debate, so just know that both are great and have their places in different situations. In recent years fast-flowering photos have become more and more popular, and we may experiment with them in the near future. 
+
+On September 9th, the AU24 batch began it's transitional period from veg into flower. With the plants being autoflowers, this happened on it's own according to their genetic clock, rather than being triggered by a change in their light schedule. Despite having a mix of different genetics in the batch, with both indica and sativa presenting plants, they all still transitioned at roughly the same time due largely in part to intentional strain selection, and receiving identical nutrients from a shared reservoir system.
 
 ### Flower Day 5
 
@@ -73,7 +81,7 @@ Overall with the group firmly in their transitional period, upward growth has sl
 
 Having mostly finished their transitional period, this is when *we* consider the plants to have truly started flower/bloom. For the past 2 weeks or so, they have been getting a blend of nutrients that focuses both on root/leaf/stem development, as well as nutrients for flower production. There is a whole lot going on under the hood at this time, so they're getting about the most diverse range of nutes and supplements they will their whole lives. 
 
-From this point on though, it's all about flower production. Thier nutrition regimen will narrow in scope, their growth will change dramatically, and the plants have already begun to show it.
+From this point on though, it's all about flower production. Their nutrition regimen will narrow in scope, their growth will change dramatically, and the plants have already begun to show it.
 
 ![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-23.png) *September 23rd - Copyright ©️ JD Henson 2024*
 
