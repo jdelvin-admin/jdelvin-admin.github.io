@@ -73,7 +73,7 @@ Overall with the group firmly in their transitional period, upward growth has sl
 
 Having mostly finished their transitional period, this is when *we* consider the plants to have truly started flower/bloom. For the past 2 weeks or so, they have been getting a blend of nutrients that focuses both on root/leaf/stem development, as well as nutrients for flower production. There is a whole lot going on under the hood at this time, so they're getting about the most diverse range of nutes and supplements they will their whole lives. 
 
-From this point on though, it's all about flower production. Shier nutrition regimen will further specialize, their growth will change dramatically, and the plants have already begun to show it.
+From this point on though, it's all about flower production. Thier nutrition regimen will narrow in scope, their growth will change dramatically, and the plants have already begun to show it.
 
 ![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-23.png) *September 23rd - Copyright ©️ JD Henson 2024*
 
@@ -81,7 +81,7 @@ Aside from differences in size alone, you can really begin to see the difference
 
 ![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-23b.png) *September 23rd - Copyright ©️ JD Henson 2024*
 
-The Gorilla Cookies fall somewhere in between, with their lineage being closer to a truly balanced hybrid. The far left (according to the diagram above) Gorilla Cookies is the most indica-presenting (despite its very large size, it has tighter internodal spacing & more indica-presenting leaves), with the far right Gorilla Cookies the most sativa-presenting.
+The Gorilla Cookies fall somewhere in between, with their lineage being closer to a truly balanced hybrid. The far left ([according to the diagram above](https://jdelvin.org/posts/Grow-Journal-AU24/#veg-begins)) Gorilla Cookies is the most indica-presenting (despite its very large size, it has tighter internodal spacing & more indica-presenting leaves), with the far right Gorilla Cookies the most sativa-presenting.
 
 ![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-23c.png) *September 23rd - Copyright ©️ JD Henson 2024*
 
