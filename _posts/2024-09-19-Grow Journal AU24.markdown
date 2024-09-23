@@ -7,7 +7,11 @@ tags: log journal Gorilla-Cookies Lemon-Pie Forbidden-Runts Bourbon-Berry FastBu
 authors: [jdh, emc]
 ---
 
-Batch AU24 is a 6-plant group of autoflowering cannabis being grown in a 50 gallon recirculating deep water culture system. The group germinated between August 18th & 19th, and is expected to be harvest around November 11th. This is our first run using a RDWC system, so while we are using relatively fresh genetics, we are mostly sticking to a known and trusted breeder for our seeds. Our nutrition/supplement needs are covered with a custom regimen combining products from General Hydroponics and Botanicare. Light is provided by 2x ROI-E720 LED fixtures, with an exceptional PAR output of 1850 umol ppf, these fixtures are more than sufficient for our grow space.
+Batch AU24 is a 6-plant group of autoflowering cannabis being grown in a 50 gallon recirculating deep water culture system. The group germinated between August 18th & 19th, and is expected to be harvest around November 11th. 
+
+- This is our first run using a RDWC system, so while we are using relatively fresh genetics, we are mostly sticking to a known and trusted breeder for our seeds. 
+- Our nutrition/supplement needs are covered with a custom regimen combining products from General Hydroponics and Botanicare. 
+- Light is provided by 2x ROI-E720 LED fixtures, with an exceptional PAR output of 1850 umol ppf, these fixtures are more than sufficient for our grow space.
 
 ### Germination
 
@@ -67,7 +71,9 @@ Overall with the group firmly in their transitional period, upward growth has sl
 
 ### Flower Day 15
 
-Having mostly finished their transitional period, this is when *we* consider the plants to have truly started flower/bloom. For the past 2 weeks or so, they have been getting a blend of nutrients that focuses both on root/leaf/stem development, as well as nutrients for flower production. There is a whole lot going on under the hood at this time, so they're getting about the most diverse range of nutes and supplements they will their whole lives. From this point on though, it's all about flower production. Shier nutrition regimen will further specialize, their growth will change dramatically, and the plants have already begun to show it.
+Having mostly finished their transitional period, this is when *we* consider the plants to have truly started flower/bloom. For the past 2 weeks or so, they have been getting a blend of nutrients that focuses both on root/leaf/stem development, as well as nutrients for flower production. There is a whole lot going on under the hood at this time, so they're getting about the most diverse range of nutes and supplements they will their whole lives. 
+
+From this point on though, it's all about flower production. Shier nutrition regimen will further specialize, their growth will change dramatically, and the plants have already begun to show it.
 
 ![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-23.png) *September 23rd - Copyright ©️ JD Henson 2024*
 
