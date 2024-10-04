@@ -41,7 +41,7 @@ The Forbidden Runtz (front row, farthest right) is the smallest of the pack so f
 
 ### Flower Begins
 
-At this point it's important for us to talk about the difference between autoflower and photoperiod cannabis. At it's most simple, autoflowers have a genetic hard-coded lifespan, while photos have a life cycle that adapts to light. Photos give you more control, and room for error, however they require strict isolation from light during their off-period, and often require more training. Autos in contrast with their fixed lifespan, have little room for error, but often flower faster and may require less training for an optimal canopy. 
+At this point it's important for us to talk about the difference between autoflower and photo-period cannabis. At it's most simple, autoflowers have a genetic hard-coded lifespan, while photos have a life cycle that adapts to light. Photos give you more control, and room for error, however they require strict isolation from light during their off-period, and often require more training. Autos in contrast with their fixed lifespan, have little room for error, but often flower faster and may require less training for an optimal canopy. 
 
 People have lots of strong opinions about the photo vs auto debate, so just know that both are great and have their places in different situations. In recent years fast-flowering photos have become more and more popular, and we may experiment with them in the near future. 
 
@@ -94,3 +94,21 @@ The Gorilla Cookies fall somewhere in between, with their lineage being closer t
 ![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-23c.png) *September 23rd - Copyright ©️ JD Henson 2024*
 
 Overall, all the plants in the batch are coming into full flower with very strong and tight stacking across the board, and noticeable trichome production beginning on the middlemost Gorilla Cookies.
+
+### Flower Day 22
+
+Coming up on the halfway point of flower, it's become very apparent that these plants will need to be supported in one way or another. After a fall-over that fortunately didn't result in any long term damage, we designed and are in the process of implementing a trellis system for each plant, to provide support as they continue to put on more weight.
+
+![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-30d.png) *September 23rd - Copyright ©️ JD Henson 2024*
+
+Do to space constraints, the largest of the plants have had to be cut back several times. While it never feels good to trim what is likely viable future bud, if the plant is allowed to grow outward into the walls, it will reduce airflow and could result in mold/bud rot. It they are allowed to grow upwards into/near the light fixtures, it will result in light burn and will block neighbors from getting sufficient light.
+
+![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-30b.png) *September 23rd - Copyright ©️ JD Henson 2024*
+
+Controlling plant size is a fine balancing act for indoor growers, and one you have limited options to tackle with autoflowers. If you keep your plants too small, you end up paying more gram per gram in nutrients and electricity by leaving space on the table. Plus, who doesn't want to grow bigger plants right? However, with the risk of stunting other plants in your batch or worse yet, developing mold, it's better to err on the side of caution.
+
+![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-30c.png) *September 23rd - Copyright ©️ JD Henson 2024*
+
+You can see from the canopy shot below, the vegetation is very thick, so maintaining adequate airflow and humidity is absolutely critical in the coming weeks. While it has been very rainy recently in Ohio, with cooler weather around the corner, we have the environment on our side. Ohio tends to be very humid in warmer months though, so when growing in Spring through Summer, we typically end up using a dehumidifier at one point or another.
+
+![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-30.png) *September 23rd - Copyright ©️ JD Henson 2024*
