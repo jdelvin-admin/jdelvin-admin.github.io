@@ -105,7 +105,7 @@ Due to space constraints, the largest of the plants have needed cut back several
 
 ![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-30b.png) *September 30th - Copyright ©️ JD Henson 2024*
 
-Controlling plant size is a fine balancing act for indoor growers, and one you have more limited options to tackle with autoflowers. If you keep your plants too small, you end up paying more gram per gram in nutrients and electricity by leaving space on the table. Plus, who doesn't want to grow bigger plants right? However, with the risk of stunting other plants in your batch, or worse yet developing mold, it's better to err on the side of caution.
+Controlling plant size is a fine balancing act for indoor growers, and you have more limited options to tackle this challenge when running autoflowers. If you keep your plants too small, you end up paying more gram per gram in nutrients and electricity by leaving space on the table. (Plus, who doesn't want to grow bigger plants right?) However, with the risk of stunting other plants in your batch, or worse yet developing mold, it's better to err on the side of caution.
 
 ![Flowering photo from September 23rd 2024](https://raw.githubusercontent.com/jdelvin-admin/jdelvin-admin.github.io/refs/heads/main/assets/img/photos/2024-09-30c.png) *September 30th - Copyright ©️ JD Henson 2024*
 
